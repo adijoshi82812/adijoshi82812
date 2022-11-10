@@ -17,8 +17,8 @@
 
 ### About Me 🚀
 
-🌱 I’m a Full stack web developer with a diploma in Information Technology. </br>
-👨‍💻 I am passionate about Web Development & I enjoy learning new things. </br>
+🌱 I’m a Blockchain developer with a diploma in Information Technology. </br>
+👨‍💻 I am passionate about Solidity, Web3 & I enjoy learning new things. </br>
 
 ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=adijoshi82812&show_icons=true&hide_border=true)&nbsp;&nbsp;
 ![Aakash's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=adijoshi82812&layout=compact&langs_count=8&hide_border=true)
